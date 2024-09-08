@@ -10,4 +10,4 @@ print(example[a:])
 
 print(example[::-1])#4
 
-print(example[::2])#5
+print(example[1::2])#5
